@@ -1,3 +1,3 @@
 payload:
-  - 'tw.manhuagui.com'
-  - 'i.hamreus.com'
+  - '+.manhuagui.com'
+  - '+.hamreus.com'
