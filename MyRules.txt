@@ -1,3 +1,4 @@
 payload:
   - '+.manhuagui.com'
   - '+.hamreus.com'
+  - '+.zerobywdlss.com'
