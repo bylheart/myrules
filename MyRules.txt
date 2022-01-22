@@ -3,3 +3,4 @@ payload:
   - '+.hamreus.com'
   - '+.zerobywdlss.com'
   - '+.copymanga.com'
+  - '+.18comic.vip'
