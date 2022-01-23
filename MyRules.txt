@@ -8,5 +8,7 @@ payload:
   - '+.copymanga.com'
 # 禁漫天堂
   - '+.18comic.vip'
-#57漫画
+# 57漫画
   - '+.usnode301.com'
+# 包子漫画
+  - '+.baozimh.com'
