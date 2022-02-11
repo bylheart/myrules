@@ -2,13 +2,3 @@ payload:
 # 看漫画
   - '+.manhuagui.com'
   - '+.hamreus.com'
-# zero搬运网
-  - '+.zerobywdlss.com'
-# 拷贝漫画
-  - '+.copymanga.com'
-# 禁漫天堂
-  - '+.18comic.vip'
-# 57漫画
-  - '+.usnode301.com'
-# 包子漫画
-  - '+.baozimh.com'
