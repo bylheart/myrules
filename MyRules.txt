@@ -2,3 +2,4 @@ payload:
 # 看漫画
   - '+.manhuagui.com'
   - '+.hamreus.com'
+  - '+.bing.com'
