@@ -3,3 +3,5 @@ payload:
   - '+.manhuagui.com'
   - '+.hamreus.com'
   - '+.bing.com'
+  - '+.mangafuna.xyz'
+  - '+.mangafunc.fun'
