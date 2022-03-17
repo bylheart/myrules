@@ -9,7 +9,7 @@ payload:
 # 拷贝漫画
   - '+.mangafunc.fun'
 # teamviewer
-  - 'tracker.tfile.me'
+  - '+.tracker.tfile.me'
   - '+.teamviewer.com'
 # 其他
   - '+.bing.com'
