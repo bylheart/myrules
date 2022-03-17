@@ -1,6 +1,11 @@
 payload:
-# 看漫画
+# 漫画柜
   - '+.manhuagui.com'
   - '+.hamreus.com'
-  - '+.bing.com'
+# 拷贝漫画
   - '+.mangafunc.fun'
+# teamviewer
+  - 'tracker.tfile.me'
+  - '+.teamviewer.com'
+# 其他
+  - '+.bing.com'
