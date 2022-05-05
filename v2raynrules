@@ -1,0 +1,77 @@
+[
+  {
+    "port": "",
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "domain:bing.com"
+    ],
+    "protocol": [],
+    "enabled": false
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:category-games@cn",
+      "geosite:cn",
+      "geosite:private",
+      "geosite:tld-cn"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:geolocation-!cn",
+      "geosite:google",
+      "geosite:greatfire"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "direct",
+    "ip": [
+      "114.114.114.114/32",
+      "119.29.29.29/32",
+      "223.5.5.5/32",
+      "geoip:cn",
+      "geoip:private"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "ip": [
+      "1.1.1.1/32",
+      "8.8.8.8/32"
+    ],
+    "enabled": true
+  },
+  {
+    "port": "0-65535",
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "enabled": true
+  }
+]
