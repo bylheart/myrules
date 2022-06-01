@@ -1,0 +1,15 @@
+@@||mtalk.google.com^$important
+@@||mtalk4.google.com^$important
+@@||mtalk-staging.google.com^$important
+@@||mtalk-dev.google.com^$important
+@@||alt1-mtalk.google.com^$important
+@@||alt2-mtalk.google.com^$important
+@@||alt3-mtalk.google.com^$important
+@@||alt4-mtalk.google.com^$important
+@@||alt5-mtalk.google.com^$important
+@@||alt6-mtalk.google.com^$important
+@@||alt7-mtalk.google.com^$important
+@@||alt8-mtalk.google.com^$important
+@@||android.apis.google.com^$important
+@@||device-provisioning.googleapis.com^$important
+@@||firebaseinstallations.googleapis.com^$important
