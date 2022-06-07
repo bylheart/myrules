@@ -8,8 +8,5 @@ payload:
   - '+.hamreus.com'
 # 拷贝漫画
   - '+.mangafunc.fun'
-# teamviewer
-  - '+.tracker.tfile.me'
-  - '+.teamviewer.com'
 # 其他
   - '+.bing.com'
