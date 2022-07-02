@@ -6,7 +6,5 @@ payload:
 # 漫画柜
   - '+.manhuagui.com'
   - '+.hamreus.com'
-# 拷贝漫画
-  - '+.mangafunc.fun'
 # 其他
   - '+.bing.com'
