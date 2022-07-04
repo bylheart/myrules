@@ -8,3 +8,4 @@ payload:
   - '+.hamreus.com'
 # 其他
   - '+.bing.com'
+  - '+.similarweb.com'
