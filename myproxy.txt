@@ -9,3 +9,4 @@ payload:
 # 其他
   - '+.bing.com'
   - 'rank.similarweb.com'
+  - 'www.similarweb.com'
