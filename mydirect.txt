@@ -1,3 +1,4 @@
 payload:
   - '+.eu.org'
-  - '*.euserv.com'
+  - '+.euserv.com'
+  - '+.similarweb.com'
