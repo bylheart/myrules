@@ -7,7 +7,7 @@ payload:
   - '+.manhuagui.com'
 #  - '+.hamreus.com'
 # 包子漫画
-   - '+.baozimh.com'
+  - '+.baozimh.com'
 # 其他
   - '+.bing.com'
 
