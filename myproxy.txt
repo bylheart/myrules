@@ -10,4 +10,5 @@ payload:
   - '+.baozimh.com'
 # 其他
   - '+.bing.com'
+  - '+.hanime1.me'
 
