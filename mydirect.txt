@@ -6,4 +6,4 @@ payload:
 #
   - '+.eu.org'
   - '+.euserv.com'
-  - '+.similarweb.com'
+#  - '+.similarweb.com'
