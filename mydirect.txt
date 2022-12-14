@@ -7,4 +7,4 @@ payload:
   - '+.eu.org'
   - '+.euserv.com'
   - '+.bitwarden.com'
-#  - '+.similarweb.com'
+  - '+.similarweb.com'
