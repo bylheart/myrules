@@ -8,3 +8,4 @@ payload:
   - '+.euserv.com'
   - '+.bitwarden.com'
   - '+.similarweb.com'
+  - '+.ghpym.com'
