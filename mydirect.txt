@@ -9,3 +9,4 @@ payload:
   - '+.bitwarden.com'
   - '+.similarweb.com'
   - '+.ghpym.com'
+  - '+.sonkwo.hk'
