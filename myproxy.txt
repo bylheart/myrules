@@ -11,3 +11,4 @@ payload:
 # 必应
   - '+.bing.com'
   - '+.openai.com'
+  - '+.ghproxy.com'
