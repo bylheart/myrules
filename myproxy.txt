@@ -7,4 +7,3 @@ payload:
   - '+.hamreus.com'
   - '+.bing.com'
   - '+.openai.com'
-  - '+.ghproxy.com'
