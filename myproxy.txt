@@ -7,4 +7,5 @@ payload:
   - '+.hamreus.com'
   - '+.bing.com'
   - '+.openai.com'
+  - '+.ghproxy.com'
   - 'googleads.g.doubleclick.net'
