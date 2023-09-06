@@ -8,5 +8,3 @@ payload:
   - '+.bing.com'
   - '+.openai.com'
   - '+.ghproxy.com'
-  - 'googleads.g.doubleclick.net'
-#  - 'sdk-events.inner-active.mobi'
