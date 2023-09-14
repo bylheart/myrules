@@ -10,4 +10,5 @@ payload:
   - '+.microsoftonline.com'
   - '+.bingapis.com'
   - '+.openai.com'
-  - '+.ghproxy.com'
+#  - '+.ghproxy.com'
+  - '+.googleads.g.doubleclick.net'
