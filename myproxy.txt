@@ -12,3 +12,4 @@ payload:
   - '+.openai.com'
 #  - '+.ghproxy.com'
   - '+.googleads.g.doubleclick.net'
+  - '+.googlesyndication.com'
