@@ -11,5 +11,5 @@ payload:
   - '+.bingapis.com'
   - '+.openai.com'
 #  - '+.ghproxy.com'
-  - '+.googleads.g.doubleclick.net'
+  - '+.g.doubleclick.net'
   - '+.googlesyndication.com'
