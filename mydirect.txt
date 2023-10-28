@@ -12,3 +12,4 @@ payload:
   - '+.ghpym.com'
   - '+.sonkwo.hk'
   - '+.ghproxy.com'
+  - '+.fastgit.org'
