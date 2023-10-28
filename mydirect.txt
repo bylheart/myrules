@@ -11,3 +11,4 @@ payload:
   - '+.similarweb.com'
   - '+.ghpym.com'
   - '+.sonkwo.hk'
+  - '+.ghproxy.com'
