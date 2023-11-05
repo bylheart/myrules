@@ -6,8 +6,8 @@ payload:
 #
   - '+.eu.org'
   - '+.euserv.com'
-  - '+.bitwarden.com'
-  - '+.bitwarden.net'
+#  - '+.bitwarden.com'
+#  - '+.bitwarden.net'
   - '+.similarweb.com'
   - '+.ghpym.com'
   - '+.sonkwo.hk'
