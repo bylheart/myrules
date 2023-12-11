@@ -6,6 +6,7 @@ payload:
   - '+.manhuagui.com'
   - '+.hamreus.com'
   - '+.bing.com'
+  - '+.microsoft.com'
   - '+.openai.com'
   - '+.googleads.g.doubleclick.net'
   - '+.tpc.googlesyndication.com'
