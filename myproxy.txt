@@ -6,6 +6,8 @@ payload:
   - '+.manhuagui.com'
   - '+.hamreus.com'
   - '+.bing.com'
+  - '+.bingapis.com'
+  - '+.live.com'
   - '+.microsoft.com'
   - '+.openai.com'
   - '+.googleads.g.doubleclick.net'
