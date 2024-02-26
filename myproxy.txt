@@ -14,3 +14,4 @@ payload:
   - '+.tpc.googlesyndication.com'
   - '+.github.com'
   - '+.githubusercontent.com'
+  - '+.ghproxy.com'
