@@ -4,11 +4,7 @@ payload:
 # .ipv6.microsoft.com 能匹配 win1901.ipv6.microsoft.com 和 foo.win1901.ipv6.microsoft.com 但不能匹配 ipv6.microsoft.com
 # +.ipv6.microsoft.com 不仅能匹配 win1901.ipv6.microsoft.com 和 foo.win1901.ipv6.microsoft.com, 而且也能匹配 ipv6.microsoft.com
 #
-  - '+.eu.org'
-  - '+.euserv.com'
+  - nic.eu.org
   - '+.bitwarden.com'
   - '+.bitwarden.net'
-  - '+.similarweb.com'
-  - '+.ghpym.com'
-  - '+.sonkwo.hk'
-  - '+.ghproxy.com'
+  - mirror.ghproxy.com
