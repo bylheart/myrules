@@ -4,6 +4,7 @@ payload:
 # .ipv6.microsoft.com 能匹配 win1901.ipv6.microsoft.com 和 foo.win1901.ipv6.microsoft.com 但不能匹配 ipv6.microsoft.com
 # +.ipv6.microsoft.com 不仅能匹配 win1901.ipv6.microsoft.com 和 foo.win1901.ipv6.microsoft.com, 而且也能匹配 ipv6.microsoft.com
   - '+.manhuagui.com'
+  - '+.mhgui.com'
   - '+.hamreus.com'
   - '+.bing.com'
   - '+.bingapis.com'
@@ -14,4 +15,3 @@ payload:
   - '+.tpc.googlesyndication.com'
   - '+.github.com'
   - '+.githubusercontent.com'
-  - '+.ghproxy.com'
