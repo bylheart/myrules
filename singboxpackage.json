@@ -5,8 +5,7 @@
       "package_name": [
         "com.x8bit.bitwarden",
         "com.omarea.vtools",
-        "com.android.captiveportallogin",
-        "com.twitter.android"
+        "com.android.captiveportallogin"
       ]
     }
   ]
