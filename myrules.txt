@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,com.gamepub.pt
+  - PROCESS-NAME,com.twitter.android
