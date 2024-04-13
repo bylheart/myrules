@@ -3,8 +3,6 @@
   "rules": [
     {
       "package_name": [
-        "com.x8bit.bitwarden",
-        "com.omarea.vtools",
         "com.android.captiveportallogin"
       ]
     }
