@@ -4,7 +4,8 @@
     {
       "package_name": [
         "com.android.captiveportallogin",
-        "com.tencent.letsgo"
+        "com.tencent.letsgo",
+        "com.tencent.tmgp.sgame"
       ]
     }
   ]
