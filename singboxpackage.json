@@ -3,7 +3,8 @@
   "rules": [
     {
       "package_name": [
-        "com.android.captiveportallogin"
+        "com.android.captiveportallogin",
+        "com.tencent.letsgo"
       ]
     }
   ]
