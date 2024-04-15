@@ -27,7 +27,9 @@
         "com.miui.player",
         "com.xiaomi.joyose",
         "com.android.browser",
-        "com.miui.analytics"
+        "com.miui.analytics",
+        "com.xiaomi.bluetooth",
+        "com.android.providers.media"
       ]
     }
   ]
