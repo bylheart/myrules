@@ -3,8 +3,26 @@
   "rules": [
     {
       "package_name": [
+        "com.android.thememanager",
+        "com.miui.tsmclient",
+        "com.android.updater",
+        "com.miui.cloudbackup",
         "com.miui.guardprovider",
-        "com.tencent.letsgo"
+        "com.android.htmlviewer",
+        "com.miui.systemAdSolution",
+        "com.miui.voicetrigger",
+        "com.xiaomi.finddevice",
+        "com.miui.micloudsync",
+        "com.miui.personalassistant",
+        "com.miui.contentextension",
+        "com.lbe.security.miui",
+        "com.xiaomi.metoknlp",
+        "com.miui.voiceassist",
+        "com.xiaomi.xmsf",
+        "cn.wps.moffice_eng.xiaomi.lite",
+        "com.miui.notes",
+        "com.miui.hybrid",
+        "com.miui.packageinstaller"
       ]
     }
   ]
