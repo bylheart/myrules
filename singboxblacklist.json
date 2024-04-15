@@ -23,7 +23,10 @@
         "com.miui.notes",
         "com.miui.hybrid",
         "com.miui.packageinstaller",
-        "com.miui.video"
+        "com.miui.video",
+        "com.miui.player",
+        "com.xiaomi.joyose",
+        "com.android.browser"
       ]
     }
   ]
