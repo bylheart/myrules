@@ -26,7 +26,8 @@
         "com.miui.video",
         "com.miui.player",
         "com.xiaomi.joyose",
-        "com.android.browser"
+        "com.android.browser",
+        "com.miui.analytics"
       ]
     }
   ]
