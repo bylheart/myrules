@@ -5,7 +5,8 @@
       "domain_suffix": [
         ".manhuagui.com",
         ".hamreus.com"
-      ]
+      ],
+      "package_name": "com.gamepub.pt"
     }
   ]
 }
