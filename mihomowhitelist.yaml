@@ -1,4 +1,3 @@
 payload:
-- PROCESS-NAME,com.gamepub.pt
-- PROCESS-NAME,com.twitter.android
-- PROCESS-NAME,com.termux
+- PROCESS-NAME,com.tencent.letsgo
+- PROCESS-NAME,com.tencent.tmgp.sgame
