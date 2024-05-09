@@ -22,4 +22,3 @@ payload:
 - PROCESS-NAME,com.xiaomi.bluetooth
 - PROCESS-NAME,com.xiaomi.finddevice
 - PROCESS-NAME,com.xiaomi.metoknlp
-- PROCESS-NAME,com.xiaomi.xmsf
