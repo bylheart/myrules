@@ -25,8 +25,7 @@
         "com.miui.voicetrigger",
         "com.xiaomi.bluetooth",
         "com.xiaomi.finddevice",
-        "com.xiaomi.metoknlp",
-        "com.xiaomi.xmsf"
+        "com.xiaomi.metoknlp"
       ]
     }
   ]
