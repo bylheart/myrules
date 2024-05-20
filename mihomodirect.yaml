@@ -1,5 +1,9 @@
 payload:
+#PROCESS-NAME
 - PROCESS-NAME,com.tencent.letsgo
 - PROCESS-NAME,com.tencent.tmgp.sgame
 - PROCESS-NAME,com.android.captiveportallogin
 - PROCESS-NAME,com.x8bit.bitwarden
+#DOMAIN-SUFFIX
+- DOMAIN-SUFFIX,bitwarden.com
+- DOMAIN-SUFFIX,bitwarden.net
