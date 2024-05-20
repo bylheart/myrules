@@ -1,9 +1,9 @@
 payload:
-#PROCESS-NAME
+#使用进程匹配，在Android平台可以匹配包名
 - PROCESS-NAME,com.tencent.letsgo
 - PROCESS-NAME,com.tencent.tmgp.sgame
 - PROCESS-NAME,com.android.captiveportallogin
 - PROCESS-NAME,com.x8bit.bitwarden
-#DOMAIN-SUFFIX
+#匹配域名后缀
 - DOMAIN-SUFFIX,bitwarden.com
 - DOMAIN-SUFFIX,bitwarden.net
