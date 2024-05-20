@@ -1,4 +1,5 @@
 payload:
+#使用进程匹配，在Android平台可以匹配包名
 - PROCESS-NAME,cn.wps.moffice_eng.xiaomi.lite
 - PROCESS-NAME,com.android.browser
 - PROCESS-NAME,com.android.htmlviewer
