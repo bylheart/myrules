@@ -1,8 +1,8 @@
 #DOMAIN-SUFFIX：匹配域名后缀
 #例：google.com匹配www.google.com/mail.google.com和google.com,但不匹配content-google.com
 payload:
-#DOMAIN-SUFFIX
+#匹配域名后缀
 - DOMAIN-SUFFIX,manhuagui.com
 - DOMAIN-SUFFIX,hamreus.com
-#PROCESS-NAME
+#使用进程匹配，在Android平台可以匹配包名
 - PROCESS-NAME,com.gamepub.pt
