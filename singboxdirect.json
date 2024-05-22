@@ -3,6 +3,10 @@
   "rules": [
     {
       "package_name": [
+        "com.android.captiveportallogin",
+        "com.tencent.letsgo",
+        "com.tencent.tmgp.sgame",
+        "com.x8bit.bitwarden",
         "com.tencent.mm",
         "com.eg.android.AlipayGphone"
       ]
