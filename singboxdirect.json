@@ -9,6 +9,10 @@
         "com.x8bit.bitwarden",
         "com.tencent.mm",
         "com.eg.android.AlipayGphone"
+      ],
+      "domain_suffix": [
+        ".bitwarden.com",
+        ".bitwarden.net"
       ]
     }
   ]
