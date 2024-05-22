@@ -7,7 +7,8 @@
         ".hamreus.com"
       ],
       "package_name": [
-        "com.gamepub.pt"
+        "com.gamepub.pt",
+        "com.google.android.gms"
       ]
     }
   ]
