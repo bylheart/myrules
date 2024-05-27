@@ -1,0 +1,4 @@
+payload:
+#匹配域名后缀
+- DOMAIN-SUFFIX,bitwarden.com
+- DOMAIN-SUFFIX,bitwarden.net
