@@ -3,12 +3,13 @@
   "rules": [
     {
       "domain": [
+        "fofa.info",
         "googleads.g.doubleclick.net",
         "tpc.googlesyndication.com"
       ],
       "domain_suffix": [
-        ".manhuagui.com",
-        ".hamreus.com"
+        ".hamreus.com",
+        ".manhuagui.com"
       ]
     }
   ]
