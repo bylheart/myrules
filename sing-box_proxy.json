@@ -3,9 +3,7 @@
   "rules": [
     {
       "domain": [
-        "fofa.info",
-        "googleads.g.doubleclick.net",
-        "tpc.googlesyndication.com"
+        "fofa.info"
       ],
       "domain_suffix": [
         ".hamreus.com",
