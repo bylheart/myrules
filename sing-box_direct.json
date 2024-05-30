@@ -4,8 +4,8 @@
     {
       "domain": "mirror.ghproxy.com",
       "domain_suffix": [
-        ".bitwarden.com",
-        ".bitwarden.net"
+        "bitwarden.com",
+        "bitwarden.net"
       ]
     }
   ]
