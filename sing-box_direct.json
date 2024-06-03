@@ -2,7 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": "mirror.ghproxy.com",
       "domain_suffix": [
         "bitwarden.com",
         "bitwarden.net"
