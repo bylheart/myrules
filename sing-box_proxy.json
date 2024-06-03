@@ -2,6 +2,7 @@
   "version": 1,
   "rules": [
     {
+      "domain": "mirror.ghproxy.com",
       "domain_suffix": [
         "fofa.info",
         "hamreus.com",
