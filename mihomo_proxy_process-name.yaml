@@ -1,4 +1,0 @@
-payload:
-#使用进程匹配，在Android平台可以匹配包名
-- PROCESS-NAME,com.gamepub.pt
-- PROCESS-NAME,com.google.android.gms
