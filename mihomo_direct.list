@@ -1,8 +1,7 @@
 #DOMAIN-SUFFIX：匹配域名后缀
 #例：google.com匹配www.google.com/mail.google.com和google.com,但不匹配content-google.com
-payload:
 #匹配完整域名
-- DOMAIN,mirror.ghproxy.com
+DOMAIN,mirror.ghproxy.com
 #匹配域名后缀
-- DOMAIN-SUFFIX,bitwarden.com
-- DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net
