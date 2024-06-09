@@ -2,6 +2,10 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "media-hncs-fy-corp.hn12oss.ctyunxs.cn",
+        "v16m-default.akamaized.net"
+      ],
       "domain_suffix": [
         "bitwarden.com",
         "bitwarden.net"
