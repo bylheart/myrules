@@ -2,8 +2,6 @@
 #例：google.com匹配www.google.com/mail.google.com和google.com,但不匹配content-google.com
 #匹配完整域名
 DOMAIN,mirror.ghproxy.com
-DOMAIN,v16m-default.akamaized.net
-DOMAIN,media-hncs-fy-corp.hn12oss.ctyunxs.cn
 #匹配域名后缀
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
