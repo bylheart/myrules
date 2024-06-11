@@ -2,10 +2,10 @@
   "version": 1,
   "rules": [
     {
-//      "domain_regex": [
-//        "(?i).*hn12oss\\.ctyunxs\\.cn.*\\.mp4",
-//        "(?i).*akamaized\\.net\\.*\\.mp4"
-//      ],
+      "domain_regex": [
+        "(?i).*hn12oss.ctyunxs.cn.*mp4.*",
+        "(?i).*akamaized.net.*mp4.*"
+      ],
       "domain_suffix": [
         "bitwarden.com",
         "bitwarden.net"
