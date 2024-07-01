@@ -8,7 +8,10 @@
         "com.tencent.tmgp.sgame",
         "com.x8bit.bitwarden",
         "com.tencent.mm",
-        "com.omarea.vtools"
+        "com.omarea.vtools",
+        "github.tornaco.android.thanos.pro",
+        "cn.myflv.noactive",
+        "moe.shizuku.redirectstorage"
       ]
     }
   ]
