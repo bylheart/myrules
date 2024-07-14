@@ -1,7 +1,8 @@
 #使用进程匹配，在Android平台可以匹配包名
-PROCESS-NAME,com.tencent.letsgo
-PROCESS-NAME,com.tencent.tmgp.sgame
+#PROCESS-NAME,com.tencent.letsgo
+#PROCESS-NAME,com.tencent.tmgp.sgame
 PROCESS-NAME,com.android.captiveportallogin
-PROCESS-NAME,com.x8bit.bitwarden
-PROCESS-NAME,com.tencent.mm
-PROCESS-NAME,com.dragon.read
+#PROCESS-NAME,com.x8bit.bitwarden
+#PROCESS-NAME,com.tencent.mm
+#PROCESS-NAME,com.dragon.read
+PROCESS-NAME,info.muge.appshare
