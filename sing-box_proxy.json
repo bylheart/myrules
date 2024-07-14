@@ -5,7 +5,9 @@
       "domain_suffix": [
         "fofa.info",
         "hamreus.com",
-        "manhuagui.com"
+        "manhuagui.com",
+        "googleads.g.doubleclick.net",
+        "tpc.googlesyndication.com"
       ]
     }
   ]
