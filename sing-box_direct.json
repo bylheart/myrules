@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "time.apple.com",
-        "mirror.ghproxy.com"
+        "time.apple.com"
       ],
       "domain_suffix": [
         "bitwarden.com",
