@@ -5,6 +5,7 @@
 #匹配域名后缀
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,ghproxy.com
 #域名正则表达式匹配
 #DOMAIN-REGEX,(?i).*hn12oss.ctyunxs.cn.*
 #DOMAIN-REGEX,(?i).*akamaized.net.*
