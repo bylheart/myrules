@@ -7,3 +7,4 @@ PROCESS-NAME,com.tencent.mm
 #PROCESS-NAME,com.dragon.read
 PROCESS-NAME,info.muge.appshare
 PROCESS-NAME,com.eg.android.AlipayGphone
+PROCESS-NAME,com.paypal.android.p2pmobile
