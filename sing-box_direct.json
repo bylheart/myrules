@@ -2,11 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": "time.apple.com",
-      "domain_suffix": [
-        "bitwarden.com",
-        "bitwarden.net"
-      ]
+      "domain": "mirror.ghproxy.com"
     }
   ]
 }
