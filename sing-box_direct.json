@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": "mirror.ghproxy.com"
+      "domain": "www.example.com"
     }
   ]
 }
