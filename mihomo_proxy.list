@@ -3,9 +3,9 @@
 #匹配完整域名
 #DOMAIN,fofa.info
 #匹配域名后缀
-DOMAIN-SUFFIX,fofa.info
-DOMAIN-SUFFIX,hamreus.com
-DOMAIN-SUFFIX,manhuagui.com
+#DOMAIN-SUFFIX,fofa.info
+#DOMAIN-SUFFIX,hamreus.com
+#DOMAIN-SUFFIX,manhuagui.com
 #DOMAIN-SUFFIX,tpc.googlesyndication.com
 #DOMAIN-SUFFIX,googleads.g.doubleclick.net
 #DOMAIN-SUFFIX,applovin.com
