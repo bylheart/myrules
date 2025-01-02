@@ -3,6 +3,7 @@
 #匹配完整域名
 #DOMAIN,mirror.ghproxy.com
 #匹配域名后缀
+DOMAIN-SUFFIX,abchina.com.cn
 #DOMAIN-SUFFIX,bitwarden.com
 #DOMAIN-SUFFIX,bitwarden.net
 #DOMAIN-SUFFIX,ghproxy.com
