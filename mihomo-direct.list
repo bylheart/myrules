@@ -5,6 +5,8 @@ IP-CIDR & IP-CIDR6
 #匹配完整域名
 #DOMAIN,www.baidu.com
 DOMAIN,www.visa.com.sg
+DOMAIN,www.wto.org
+DOMAIN,www.web.com
 #匹配域名后缀
 #DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,eu.org
