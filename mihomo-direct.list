@@ -11,3 +11,6 @@ DOMAIN,www.visa.com.sg
 DOMAIN,www.wto.org
 DOMAIN,www.web.com
 DOMAIN-SUFFIX,eu.org
+IP-CIDR,142.171.9.118/32
+IP-CIDR,107.173.86.137/32
+IP-CIDR,46.37.96.63/32
