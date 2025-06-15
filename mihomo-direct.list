@@ -3,21 +3,11 @@
 #IP-CIDR & IP-CIDR6
 #匹配 IP 地址范围，IP-CIDR和IP-CIDR6效果是一样的，IP-CIDR6只是一个别名
 #匹配完整域名
-#DOMAIN,www.baidu.com
+#DOMAIN,www.google.com
+#匹配域名后缀
+#DOMAIN-SUFFIX,google.com
+#
 DOMAIN,www.visa.com.sg
 DOMAIN,www.wto.org
 DOMAIN,www.web.com
-#匹配域名后缀
-#DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,eu.org
-#域名正则表达式匹配
-#DOMAIN-REGEX,(?i).*baidu.com.*
-#匹配 IP 地址范围
-#IP-CIDR,142.171.9.118/32
-#IP-CIDR,107.173.86.137/32
-#IP-CIDR,46.37.96.63/32
-#使用进程匹配，在Android平台可以匹配包名
-PROCESS-NAME,android
-PROCESS-NAME,com.android.phone
-PROCESS-NAME,com.android.captiveportallogin
-PROCESS-NAME,com.tencent.mm
