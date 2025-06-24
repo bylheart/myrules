@@ -2,10 +2,10 @@
 DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #
-DOMAIN,forums.e-hentai.org
+#DOMAIN,forums.e-hentai.org
 #DOMAIN-SUFFIX,ehgt.org
 #DOMAIN-SUFFIX,ehtracker.org
-#DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,exhentai.org
 #DOMAIN-SUFFIX,hath.network
 #
 DOMAIN,copilot.microsoft.com
