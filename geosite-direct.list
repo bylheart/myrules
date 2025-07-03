@@ -5,9 +5,9 @@
 #匹配域名后缀
 #DOMAIN-SUFFIX,google.com
 #
-DOMAIN,www.visa.com.sg
-DOMAIN,www.wto.org
-DOMAIN,www.web.com
-DOMAIN-SUFFIX,eu.org
-DOMAIN-SUFFIX,hostdare.com
-DOMAIN-SUFFIX,hostmonit.com
+www.visa.com.sg
+www.wto.org
+www.web.com
+.eu.org
+.hostdare.com
+.hostmonit.com
