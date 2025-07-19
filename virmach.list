@@ -2,10 +2,10 @@
 DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #
-DOMAIN,sunvxqrqcj.hath.network
-DOMAIN,praogxqcch.hath.network
+#DOMAIN,sunvxqrqcj.hath.network
+#DOMAIN,praogxqcch.hath.network
 #
-DOMAIN,copilot.microsoft.com
+#DOMAIN,copilot.microsoft.com
 #
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,gemini.google.com
