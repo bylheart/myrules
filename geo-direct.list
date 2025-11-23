@@ -7,5 +7,5 @@ IP-CIDR,193.22.152.158/32
 PROCESS-NAME,com.tencent.mm
 PROCESS-NAME,info.muge.appshare
 PROCESS-NAME,com.github.catfriend1.syncthingfork
-#IP-CIDR,2602:f992:52:145c::1/128,no-resolve
+#IP-CIDR,2602:f992:52:145c::1/128
 #DST-PORT,22000
