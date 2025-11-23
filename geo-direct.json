@@ -3,19 +3,16 @@
   "rules": [
     {
       "domain": [
-        "www.visa.com.sg",
-        "www.wto.org",
-        "www.web.com"
       ],
       "domain_suffix": [
         "eu.org",
         "hostdare.com",
         "hostmonit.com"
       ],
-      "ip_cidr": [
-        "46.37.96.63/32",
-        "185.238.248.127/32",
-        "2602:f992:52:145c::1/128"
+      "package_name": [
+        "com.tencent.mm",
+        "info.muge.appshare",
+        "com.github.catfriend1.syncthingfork"
       ]
     }
   ]
