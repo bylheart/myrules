@@ -9,6 +9,8 @@
         "hostdare.com",
         "hostmonit.com"
       ],
+      "ip_cidr": [
+      ],
       "package_name": [
         "com.tencent.mm",
         "info.muge.appshare",
