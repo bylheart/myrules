@@ -6,3 +6,5 @@
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,dns.quad9.net
+IP-CIDR,8.8.8.8/32
+IP-CIDR,1.1.1.1/32
