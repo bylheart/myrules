@@ -1,21 +1,22 @@
+#  - DOMAIN,www.google.com
+#  - DOMAIN-SUFFIX,google.com
+#  - IP-CIDR,8.8.8.8/32,no-resolve
+#  - PROCESS-NAME,com.google.android
+#  - DST-PORT,80,no-resolve
 payload:
-#DOMAIN,www.google.com
-#DOMAIN-SUFFIX,google.com
-#IP-CIDR,8.8.8.8/32
-#PROCESS-NAME,com.google.android
-DOMAIN-SUFFIX,eu.org
-DOMAIN-SUFFIX,hostdare.com
-DOMAIN-SUFFIX,ygkkk.dpdns.org
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,1.12.12.12/32,no-resolve
-IP-CIDR,120.53.53.53/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,148.135.53.89/32,no-resolve
-IP-CIDR,193.22.152.158/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-#IP-CIDR,2602:f992:52:145c::1/128,no-resolve
-DST-PORT,22000,no-resolve
-#PROCESS-NAME,com.tencent.mm
-#PROCESS-NAME,info.muge.appshare
-#PROCESS-NAME,com.github.catfriend1.syncthingfork
+  - DOMAIN-SUFFIX,eu.org
+  - DOMAIN-SUFFIX,hostdare.com
+  - DOMAIN-SUFFIX,ygkkk.dpdns.org
+  - IP-CIDR,223.5.5.5/32,no-resolve
+  - IP-CIDR,223.6.6.6/32,no-resolve
+  - IP-CIDR,1.12.12.12/32,no-resolve
+  - IP-CIDR,120.53.53.53/32,no-resolve
+  - IP-CIDR,119.29.29.29/32,no-resolve
+  - IP-CIDR,148.135.53.89/32,no-resolve
+  - IP-CIDR,193.22.152.158/32,no-resolve
+  - IP-CIDR,114.114.114.114/32,no-resolve
+  - IP-CIDR,2602:f992:52:145c::1/128,no-resolve
+  - DST-PORT,22000,no-resolve
+#  - PROCESS-NAME,com.tencent.mm
+#  - PROCESS-NAME,info.muge.appshare
+#  - PROCESS-NAME,com.github.catfriend1.syncthingfork
