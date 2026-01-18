@@ -4,8 +4,9 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80,no-resolve
 payload:
-  - DOMAIN,cdn2.inner-active.mobi
+#  - DOMAIN,cdn2.inner-active.mobi
   - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,www.googletagservices.com
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,dns.quad9.net
