@@ -11,5 +11,7 @@ payload:
   - IP-CIDR,8.8.4.4/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.0.0.1/32,no-resolve
+  - IP-CIDR,9.9.9.9/32,DIRECT,no-resolve
+  - IP-CIDR,149.112.112.112/32,DIRECT,no-resolve
 #  - PROCESS-NAME,com.gamepub.pt
 #  - PROCESS-NAME,com.google.android.gms
