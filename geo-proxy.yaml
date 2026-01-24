@@ -4,6 +4,7 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80,no-resolve
 payload:
+  - DOMAIN,copilot.microsoft.com
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,dns.quad9.net
   - DOMAIN-SUFFIX,cloudflare-dns.com
