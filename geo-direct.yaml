@@ -16,7 +16,7 @@ payload:
 #  - IP-CIDR,193.22.152.158/32,no-resolve
 #  - IP-CIDR,114.114.114.114/32,no-resolve
 #  - IP-CIDR,2602:f992:52:145c::1/128,no-resolve
-  - DST-PORT,123
+  - DST-PORT,5222
   - DST-PORT,22000
 #  - PROCESS-NAME,com.tencent.mm
 #  - PROCESS-NAME,info.muge.appshare
