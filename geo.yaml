@@ -5,9 +5,9 @@
 #  - DST-PORT,80,no-resolve
 payload:
   - DOMAIN,copilot.microsoft.com
-  - DST-PORT,5228
-  - DST-PORT,5229
-  - DST-PORT,5230
+#  - DST-PORT,5228
+#  - DST-PORT,5229
+#  - DST-PORT,5230
 #  - DOMAIN-SUFFIX,dns.google
 #  - DOMAIN-SUFFIX,dns.quad9.net
 #  - DOMAIN-SUFFIX,cloudflare-dns.com
