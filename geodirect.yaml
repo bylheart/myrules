@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,illinois.edu
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
-  - DOMAIN-KEYWORD,stun
+#  - DOMAIN-KEYWORD,stun
 #  - IP-CIDR,223.5.5.5/32,no-resolve
 #  - IP-CIDR,223.6.6.6/32,no-resolve
 #  - IP-CIDR,1.12.12.12/32,no-resolve
