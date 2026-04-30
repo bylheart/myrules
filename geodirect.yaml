@@ -4,8 +4,6 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80,no-resolve
 payload:
-  - DOMAIN,doh.pub
-  - DOMAIN,dns.alidns.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,illinois.edu
   - DOMAIN-SUFFIX,hostdare.com
