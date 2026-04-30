@@ -1,1 +1,5 @@
-
+payload:
+  - 'doh.pub'
+  - 'dns.alidns.com'
+  - 'dns.google'
+  - 'cloudflare-dns.com'
