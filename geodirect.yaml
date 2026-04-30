@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,illinois.edu
   - DOMAIN-SUFFIX,hostdare.com
+  - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
 #  - IP-CIDR,223.5.5.5/32,no-resolve
 #  - IP-CIDR,223.6.6.6/32,no-resolve
