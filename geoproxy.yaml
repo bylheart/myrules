@@ -4,7 +4,7 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80,no-resolve
 payload:
-  - DOMAIN,copilot.microsoft.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
 #  - DST-PORT,5228
 #  - DST-PORT,5229
 #  - DST-PORT,5230
