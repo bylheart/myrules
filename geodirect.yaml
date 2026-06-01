@@ -4,7 +4,7 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80,no-resolve
 payload:
-  - DOMAIN-SUFFIX,eu.org
+  - DOMAIN,nic.eu.org
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
