@@ -1,20 +1,22 @@
 {
-  "version": 3,
+  "version": 4,
   "rules": [
     {
       "domain": [
+        "nic.eu.org"
       ],
       "domain_suffix": [
-        "eu.org",
         "hostdare.com",
-        "hostmonit.com"
+        "ygkkk.dpdns.org"
       ],
       "ip_cidr": [
+        "35.212.192.40/32",
+        "193.22.152.158/32"
+      ],
+      "port": [
+        22000
       ],
       "package_name": [
-        "com.tencent.mm",
-        "info.muge.appshare",
-        "com.github.catfriend1.syncthingfork"
       ]
     }
   ]
