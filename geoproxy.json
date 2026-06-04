@@ -1,12 +1,15 @@
 {
-  "version": 3,
+  "version": 4,
   "rules": [
     {
       "domain": [
+        "www.febeuorg.eu.org",
+        "copilot.microsoft.com"
       ],
       "domain_suffix": [
       ],
       "ip_cidr": [
+        "182.255.90.157/32"
       ],
       "package_name": [
       ]
