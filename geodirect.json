@@ -18,6 +18,9 @@
       ],
       "package_name": [
         "com.github.catfriend1.syncthingfork"
+      ],
+      "process_name": [
+        "syncthing.exe"
       ]
     }
   ]
