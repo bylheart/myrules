@@ -7,8 +7,7 @@
       ],
       "domain_suffix": [
         "hostdare.com",
-        "ygkkk.dpdns.org",
-        "syncthing.net"
+        "ygkkk.dpdns.org"
       ],
       "ip_cidr": [
         "35.212.192.40",
@@ -18,7 +17,6 @@
       "port": [
       ],
       "package_name": [
-        "com.github.catfriend1.syncthingfork"
       ]
     }
   ]
