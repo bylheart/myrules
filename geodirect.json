@@ -16,7 +16,6 @@
         "182.255.90.157"
       ],
       "port": [
-        22000
       ],
       "package_name": [
         "com.github.catfriend1.syncthingfork"
