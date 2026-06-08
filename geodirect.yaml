@@ -2,21 +2,15 @@
 #  - DOMAIN-SUFFIX,google.com
 #  - IP-CIDR,8.8.8.8/32,no-resolve
 #  - PROCESS-NAME,com.google.android
-#  - DST-PORT,80,no-resolve
+#  - DST-PORT,80
 payload:
   - DOMAIN,nic.eu.org
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
-  - DOMAIN-KEYWORD,stun
-  - IP-CIDR,223.5.5.5/32,no-resolve
-  - IP-CIDR,223.6.6.6/32,no-resolve
-  - IP-CIDR,1.12.12.12/32,no-resolve
-  - IP-CIDR,120.53.53.53/32,no-resolve
-  - IP-CIDR,119.29.29.29/32,no-resolve
   - IP-CIDR,35.212.192.40/32,no-resolve
   - IP-CIDR,193.22.152.158/32,no-resolve
-#  - IP-CIDR,182.255.90.157/32,no-resolve
+  - IP-CIDR,182.255.90.157/32,no-resolve
 #  - IP-CIDR,169.254.0.0/16,no-resolve
 #  - DST-PORT,100
 #  - DST-PORT,5222
