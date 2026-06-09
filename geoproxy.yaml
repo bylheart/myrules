@@ -4,7 +4,7 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80
 payload:
-  - DOMAIN,www.febeuorg.eu.org
+  - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,copilot.microsoft.com
 #  - DST-PORT,5228
 #  - DST-PORT,5229
