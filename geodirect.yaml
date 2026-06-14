@@ -5,7 +5,7 @@
 #  - DST-PORT,80
 payload:
   - DOMAIN,nic.eu.org
-  - DOMAIN,newapi.febeuorg.eu.org
+  - DOMAIN,litellm.febeuorg.eu.org
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
