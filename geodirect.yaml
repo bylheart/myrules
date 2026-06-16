@@ -14,7 +14,7 @@ payload:
   - IP-CIDR,193.22.152.158/32,no-resolve
   - IP-CIDR,182.255.90.157/32,no-resolve
 #  - IP-CIDR,169.254.0.0/16,no-resolve
-  - DST-PORT,6800
+#  - DST-PORT,6800
   - DST-PORT,22000
 #  - DST-PORT,5222
 #  - DST-PORT,5228
