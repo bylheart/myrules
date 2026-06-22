@@ -4,13 +4,12 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80
 payload:
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
-  - IP-CIDR,35.212.192.40/32,no-resolve
-  - IP-CIDR,193.22.152.158/32,no-resolve
-  - IP-CIDR,182.255.90.157/32,no-resolve
+#  - IP-CIDR,35.212.192.40/32,no-resolve
+#  - IP-CIDR,193.22.152.158/32,no-resolve
+#  - IP-CIDR,182.255.90.157/32,no-resolve
 #  - IP-CIDR,169.254.0.0/16,no-resolve
 #  - DST-PORT,6800
   - DST-PORT,22000
