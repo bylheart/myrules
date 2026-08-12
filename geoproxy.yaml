@@ -6,7 +6,6 @@
 payload:
   - DOMAIN,searxng.febeuorg.eu.org
   - DOMAIN,www.janeuorg.eu.org
-  - DOMAIN,pektino.com  
   - DOMAIN-SUFFIX,copilot.microsoft.com
 #  - DST-PORT,5228
 #  - DST-PORT,5229
