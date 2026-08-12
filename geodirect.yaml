@@ -4,6 +4,7 @@
 #  - PROCESS-NAME,com.google.android
 #  - DST-PORT,80
 payload:
+  - DOMAIN,pektino.com  
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
