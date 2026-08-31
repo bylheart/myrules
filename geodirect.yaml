@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,hostdare.com
   - DOMAIN-SUFFIX,ygkkk.dpdns.org
+  - DOMAIN-SUFFIX,pektino.com
 #  - IP-CIDR,35.212.192.40/32,no-resolve
 #  - IP-CIDR,193.22.152.158/32,no-resolve
 #  - IP-CIDR,182.255.90.157/32,no-resolve
