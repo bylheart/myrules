@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "rules": [
     {
       "domain": [
@@ -17,10 +17,8 @@
       "port": [
       ],
       "package_name": [
-        "com.github.catfriend1.syncthingfork"
       ],
       "process_name": [
-        "syncthing.exe"
       ]
     }
   ]
