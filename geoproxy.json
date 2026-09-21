@@ -1,11 +1,9 @@
 {
-  "version": 4,
+  "version": 5,
   "rules": [
     {
       "domain": [
-        "www.febeuorg.eu.org",
-        "copilot.microsoft.com",
-        "anyrouter.top"
+        "copilot.microsoft.com"
       ],
       "domain_suffix": [
       ],
