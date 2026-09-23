@@ -3,16 +3,14 @@
   "rules": [
     {
       "domain": [
-        "nic.eu.org"
+        "nic.eu.org",
+        "pektino.com"
       ],
       "domain_suffix": [
         "hostdare.com",
         "ygkkk.dpdns.org"
       ],
       "ip_cidr": [
-        "35.212.192.40",
-        "193.22.152.158",
-        "182.255.90.157"
       ],
       "port": [
       ],
