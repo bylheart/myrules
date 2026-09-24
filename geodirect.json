@@ -3,12 +3,14 @@
   "rules": [
     {
       "domain": [
-        "nic.eu.org",
-        "pektino.com"
+        "nic.eu.org"
       ],
       "domain_suffix": [
         "hostdare.com",
-        "ygkkk.dpdns.org"
+        "ygkkk.dpdns.org",
+        "pektino.com",
+        "truvaze.com",
+        "x-ero-anime.com"
       ],
       "ip_cidr": [
       ],
