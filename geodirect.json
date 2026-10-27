@@ -5,7 +5,8 @@
       "domain": [
         "nic.eu.org"
       ],
-      "domain_suffix": [
+      "domain_suffix": [        
+        "janeuorg.eu.org",
         "hostdare.com",
         "ygkkk.dpdns.org",
         "pektino.com",
@@ -13,12 +14,9 @@
         "x-ero-anime.com"
       ],
       "ip_cidr": [
-      ],
-      "port": [
-      ],
-      "package_name": [
-      ],
-      "process_name": [
+        "193.22.152.158",
+        "182.255.90.157",
+        "35.212.219.101"
       ]
     }
   ]
