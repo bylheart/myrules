@@ -2,17 +2,6 @@
   "version": 5,
   "rules": [
     {
-      "domain": [
-        "nic.eu.org"
-      ],
-      "domain_suffix": [
-        "janeuorg.eu.org",
-        "hostdare.com",
-        "ygkkk.dpdns.org",
-        "pektino.com",
-        "truvaze.com",
-        "x-ero-anime.com"
-      ],
       "port": [
         5938
       ]
