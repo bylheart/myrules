@@ -5,7 +5,7 @@
       "domain": [
         "nic.eu.org"
       ],
-      "domain_suffix": [        
+      "domain_suffix": [
         "janeuorg.eu.org",
         "hostdare.com",
         "ygkkk.dpdns.org",
@@ -20,7 +20,7 @@
       ],
       "port": [
         5938
-      ],
+      ]
     }
   ]
 }
