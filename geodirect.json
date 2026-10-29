@@ -12,6 +12,9 @@
         "pektino.com",
         "truvaze.com",
         "x-ero-anime.com"
+      ],
+      "port": [
+        5938
       ]
     }
   ]
