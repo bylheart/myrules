@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "nic.eu.org"
+        "nic.eu.org",
+        "client.teamviewer.com"
       ],
       "domain_suffix": [
         "janeuorg.eu.org",
