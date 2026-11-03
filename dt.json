@@ -3,11 +3,12 @@
   "rules": [
     {
       "domain": [
-        "nic.eu.org",
-        "client.teamviewer.com"
+        "nic.eu.org"
       ],
       "domain_suffix": [
         "janeuorg.eu.org",
+        "teamviewer.com",
+        "teamviewer.cn",
         "syncthing.net",
         "hostdare.com",
         "ygkkk.dpdns.org",
