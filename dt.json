@@ -2,11 +2,8 @@
   "version": 5,
   "rules": [
     {
-      "domain": [
-        "nic.eu.org"
-      ],
       "domain_suffix": [
-        "janeuorg.eu.org",
+        "eu.org",
         "teamviewer.com",
         "teamviewer.cn",
         "syncthing.net",
